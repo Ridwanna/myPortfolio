@@ -1,0 +1,32 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.container{
+	
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+
+.text-thin{
+	font-weight: 100;
+	color: #BCBBBB;
+}
+
+.logo{
+	margin-top: 20px;
+}
+
+.text{
+	font-size: 60px
+} 
+
+.link{ 
+    border-color: black;
+    border-color: #BCBBBB;
+    border-width: 3px;
+} 
